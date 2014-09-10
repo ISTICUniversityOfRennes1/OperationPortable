@@ -10,8 +10,6 @@ Some docs can be found here.
 In yout get some troubles with the wifi. You can reinstall the module
 
 ```bash
-apt-get install --reinstall bcmwl-kernel-source
-apt-get install update
 apt-get update
 apt-get install --reinstall bcmwl-kernel-source
 ```
